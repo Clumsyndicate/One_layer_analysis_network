@@ -20,5 +20,8 @@ The results would be outputed to a folder named with the chosen parameters. Ever
 ## Credits
 
 Check Pioneer Academics out: https://pioneeracademics.com/
-Check out my paper。
+
+Check out my paper: https://www.dropbox.com/s/t8pr750hspnsd5y/Paper%20Johnson%20Zhou.pdf?dl=0
+
+
 
